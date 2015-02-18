@@ -1,4 +1,11 @@
-Course Syllabus for "COMM323: Comparative Media Systems "
+---
+layout: default
+title: "COMM323: Comparative Media Systems"
+course_description: "In this course, we will explore the ways stakeholders influence the media environment we live in today. We will critically examine the ways new media technology allows the general population to access and actively contribute to social media content. This course will also develop a working knowledge of how media are operated and regulated under varied political and economic influences."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "COMM323: Comparative Media Systems"
 ---------------------------------------------------------
 
 Whether you know it or not, you are actively contributing to a

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM323: Comparative Media Systems"
+course_description: "In this course, we will explore the ways stakeholders influence the media environment we live in today. We will critically examine the ways new media technology allows the general population to access and actively contribute to social media content. This course will also develop a working knowledge of how media are operated and regulated under varied political and economic influences."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: International Organizations** <span id="9"></span> 
 *After the close examinations of local and regional media systems
 conducted in the previous units, this unit will focus on the global

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM323: Comparative Media Systems"
+course_description: "In this course, we will explore the ways stakeholders influence the media environment we live in today. We will critically examine the ways new media technology allows the general population to access and actively contribute to social media content. This course will also develop a working knowledge of how media are operated and regulated under varied political and economic influences."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: North American Media Systems** <span id="3"></span> 
 *This unit offers a comparison between media systems based in Canada and
 the United States.  You will engage with material that presents the
