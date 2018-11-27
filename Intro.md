@@ -99,7 +99,7 @@ computer.
  √    Have competency in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -113,7 +113,7 @@ online materials.  However, the course makes primary use of the
 following source(s):  
 
 -   [*Understanding Media and Culture: An Introduction to Mass
-    Communication*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Communication*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
 -   [European Journalism Centre: Country Media
     Profiles](http://www.ejc.net/media_landscape/)
 -   *PBS*: [Merchants of
