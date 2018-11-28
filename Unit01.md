@@ -91,7 +91,7 @@ id="1.1"></span> 
     Communication*: “Section 4.1 History of Newspaper”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Section 4.1 History of
-    Newspaper”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Newspaper”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read “Section
@@ -192,7 +192,7 @@ id="1.3.4"></span> 
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Section 4.3: How Newspapers Control the Public’s
     Access to Information and Impact American Pop
-    Culture”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Culture”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read “Section
@@ -219,7 +219,7 @@ id="1.3.4"></span> 
     Journalism”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Section 4.2: Different Styles and Models of
-    Journalism”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Journalism”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions:  Please click on the link above and read Section
@@ -240,7 +240,7 @@ id="1.4"></span> 
     Industries”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Section 13.1: Characteristics of Media
-    Industries”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Industries”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please click on the link above, and read “Section
@@ -287,7 +287,7 @@ id="1.4.2"></span> 
     Communication*: “Chapter 7: Radio”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 7:
-    Radio”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Radio”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please click on the link above, and read through all
@@ -315,7 +315,7 @@ id="1.4.2"></span> 
     Communication*: “Chapter 9: Television”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 9:
-    Television”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)
+    Television”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and read through

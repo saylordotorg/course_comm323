@@ -75,7 +75,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 11: The Internet and Social Media –
     Section 11.1: The Evolution of the
-    Internet”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
+    Internet”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
       
      Instructions: Please click on the link above and read this
     section.  The evolution of the Internet challenged most existing
@@ -102,7 +102,7 @@ Upon successful completion of this unit, the student will be able to:
     2.0”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 11 – Section 11.2: Social Media and Web
-    2.0”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
+    2.0”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
       
      Instructions: Please click on the link above and read section 11.2,
     which discusses the phenomenon of social media and “Web 2.0,” and
@@ -127,7 +127,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 11 – Section 11.3: The Effects of the
     Internet and Globalization on Popular Culture and Interpersonal
-    Communication”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
+    Communication”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
       
      Instructions: Please click on the link above and read this
     section.  This section takes a closer look at two of the major
@@ -150,7 +150,7 @@ Upon successful completion of this unit, the student will be able to:
     Communication*: “Chapter 11 – Section 11.4: Issues and Trends”**
     Link: *Understanding Media and Culture: An Introduction to Mass
     Communication*: [“Chapter 11 –  Section 11.4: Issues and
-    Trends”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
+    Trends”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf) (PDF)  
       
      Instructions: Please click on the link above and read this section,
     which introduces the concepts surrounding the social impact of new
